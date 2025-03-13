@@ -17,27 +17,7 @@ I'm an intermediate-level programmer passionate about coding and continuously en
 - **Frameworks and Libraries:** React.js, Node.js
 - **Tools:** Git, GitHub, VS Code
 
-## 📘 Projects
 
-Here are some of my notable projects:
-
-1. **JavaScript Journey**: [Repository](https://github.com/rajdeep0510/javascript)
-   - A collection of projects and exercises documenting my progress in learning JavaScript.
-
-2. **React Projects**: [Repository](https://github.com/rajdeep0510/react-projects)
-   - A showcase of various applications built using React.js to demonstrate my proficiency in the library.
-
-3. **To-Do List**: [Repository](https://github.com/rajdeep0510/ToDo-list)
-   - A simple and intuitive to-do list application to manage daily tasks effectively.
-
-4. **Weather App**: [Repository](https://github.com/rajdeep0510/weatherApp)
-   - A web application that provides real-time weather information based on user input.
-
-5. **Broadcaster**: [Repository](https://github.com/rajdeep0510/broadcaster)
-   - A PHP-based project focusing on broadcasting messages to a wider audience.
-
-6. **SoleXchange**: [Repository](https://github.com/rajdeep0510/soleXchange)
-   - An online platform for buying and selling sneakers, built using PHP.
 
 ## 📫 How to Reach Me
 
