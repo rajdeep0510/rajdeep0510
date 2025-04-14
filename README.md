@@ -1,4 +1,4 @@
-# Hi there, I'm Rajdeep Vala! 👋
+# Hi there, I'm Rajdeep Vala!
 
 **Location:** Ahmedabad, India
 
